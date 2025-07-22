@@ -1,7 +1,7 @@
 # WHITE CLAWS
 Obesk hand reskin mod for White Knuckle.
 
-https://github.com/VersusVindustry/whiteclaw/blob/main/akiknucklebanner.png
+![alt text](https://github.com/VersusVindustry/whiteclaw/blob/main/akiknucklebanner.png "banner")
 
 # REQUIRES [RESOURCEFUL HANDS](https://thunderstore.io/c/white-knuckle/p/triggered_studio/ResourcefulHands/)
 
@@ -16,4 +16,5 @@ A: A this mod is based off a free indie experimental web-visual novel called [co
 
 Source material and some assets are the intellectual property of [corru.works](https://corru.works/)
 
-https://github.com/VersusVindustry/whiteclaw/blob/main/whiteclawpreview.png?raw
+![alt text](https://github.com/VersusVindustry/whiteclaw/blob/main/whiteclawpreview.png "gameplay")
+
