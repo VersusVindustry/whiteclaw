@@ -9,9 +9,11 @@ Looks like Akizeteshe Qou Jokzi has somehow ended up all the way at the bottom o
 Better use that surface runner knowledge and climb your way out, Aki!
 
 Replaces hand, food bar, and food can textures.
+
 Replaces female jump and food can slurp sounds.
 
 Q: What am i even looking at?
+
 A: A this mod is based off a free indie experimental web-visual novel called [corru.observer](https://corru.observer/)
 
 Source material and some assets are the intellectual property of [corru.works](https://corru.works/)
