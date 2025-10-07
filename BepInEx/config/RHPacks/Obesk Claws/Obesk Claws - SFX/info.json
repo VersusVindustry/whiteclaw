@@ -1,0 +1,16 @@
+{
+    "name":"Obesk Claws SFX",
+    "desc":"Jump sounds",
+    
+    "author":"VitalVersus",
+    "steamid":76561198107201858,
+    
+    "guid":"VitalVersus.Obesk_Claws_PLAYER_SFX",
+    
+    "only-in-full-game":false,
+    
+    "textures-folder":"Textures",
+    "icon-file":"pack.png",
+    
+    "format-version":2
+}                                                           
